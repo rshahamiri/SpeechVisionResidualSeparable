@@ -6,3 +6,5 @@ Dysarthria is a neurological condition resulting from impairments affecting musc
 
 The full paper detail will be addedd after publication.
 
+For Speech Vision, please see: https://ieeexplore.ieee.org/document/9419963
+
